@@ -2,7 +2,6 @@
 java calisma
 
 
-
 ------ USE EXTERNAL JAR FILES IN MAVEN --------
 - create local-repository from exernal jar in maven
 - create folder as named local-repo
